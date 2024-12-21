@@ -1,10 +1,10 @@
 # MemeContest: Decentralized Meme Competition Platform
 
 ## Project Description
--MemeContest is a blockchain-based platform that enables users to participate in time-bound meme competitions with automated reward distribution. The platform creates a fair and transparent environment for meme creators to showcase their work, receive community votes, and earn rewards based on their content's popularity.
+- MemeContest is a blockchain-based platform that enables users to participate in time-bound meme competitions with automated reward distribution. The platform creates a fair and transparent environment for meme creators to showcase their work, receive community votes, and earn rewards based on their content's popularity.
 
 ## Contract Address
--0xE2a5482973dCf8645A25170efbCcb23e7662c11B
+- 0xE2a5482973dCf8645A25170efbCcb23e7662c11B
 
 ## Project Vision
 Our vision is to revolutionize the meme creation ecosystem by introducing a decentralized, fair, and rewarding platform. We aim to:
@@ -15,16 +15,16 @@ Our vision is to revolutionize the meme creation ecosystem by introducing a dece
 - Bridge the gap between content creation and monetization
 
 ## Key Objectives
--Foster Creativity and Community Engagement
--Ensure Fairness and Transparency in Voting and Rewards
--Streamline Meme Submission and Voting Processes
--Automate Reward Distribution
--Enhance Security and Trustworthiness
--Scale to Support Multiple Competitions
--Promote Self-Sustaining Ecosystem
--Facilitate Monetization for Meme Creators
--Integrate Community Governance Features
--Drive Long-Term Platform Growth
+- Foster Creativity and Community Engagement
+- Ensure Fairness and Transparency in Voting and Rewards
+- Streamline Meme Submission and Voting Processes
+- Automate Reward Distribution
+- Enhance Security and Trustworthiness
+- Scale to Support Multiple Competitions
+- Promote Self-Sustaining Ecosystem
+- Facilitate Monetization for Meme Creators
+- Integrate Community Governance Features
+- Drive Long-Term Platform Growth
 
 ## Key Features
 
