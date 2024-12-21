@@ -16,11 +16,15 @@ Our vision is to revolutionize the meme creation ecosystem by introducing a dece
 
 ## Key Objectives
 -Foster Creativity and Community Engagement
--
--
--
--
--
+-Ensure Fairness and Transparency in Voting and Rewards
+-Streamline Meme Submission and Voting Processes
+-Automate Reward Distribution
+-Enhance Security and Trustworthiness
+-Scale to Support Multiple Competitions
+-Promote Self-Sustaining Ecosystem
+-Facilitate Monetization for Meme Creators
+-Integrate Community Governance Features
+-Drive Long-Term Platform Growth
 
 ## Key Features
 
